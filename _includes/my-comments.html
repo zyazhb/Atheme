@@ -31,13 +31,13 @@
 const gitalk = new Gitalk({
     clientID: '{{site.gitalk.clientID}}',
     clientSecret: '{{site.gitalk.clientSecret}}',
-    repo: '{{site.gitalk.repo}}',      // The repository of store comments,
+    repo: '{{site.gitalk.repo}}', 
     owner: '{{site.gitalk.owner}}',
     admin: ['{{site.gitalk.admin}}'],
-    id: location.pathname,      // Ensure uniqueness and length less than 50
-    distractionFreeMode: true  // Facebook-like distraction free mode
-  })
+    id: location.pathname,
+    distractionFreeMode: true
+  });
   
-  gitalk.render('gitalk-container')
+  gitalk.render('gitalk-container');
 </script>
 {% endif %}
