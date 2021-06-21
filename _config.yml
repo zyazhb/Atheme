@@ -72,3 +72,10 @@ compress_html:
 
 sass:
   style:               compressed
+
+gitalk: 
+    clientID: 38dea5c95869f860ad62
+    clientSecret: c25da8af58b66b9eb387ee7b02294fce04ef39f2
+    repo: gitalk
+    owner: zyazhb
+    admin: zyazhb
