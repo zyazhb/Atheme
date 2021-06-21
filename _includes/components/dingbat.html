@@ -1,7 +1,9 @@
-{% if site.clap_button == false %}
+{% if site.clap_button.enabled == false %}
   <hr class="dingbat related mb6" />
-{% elsif site.clap_button %}
-  <clap-button class="mb6" {% if include.hidden == true %}hidden{% endif %}></clap-button>
+{% elsif site.clap_button.enabled %}
+  <div style="display: flex;align-items: center;justify-content: center;">
+    <applause-button style="width: 58px; height: 58px;" color="{{site.clap_button.color}}" multiclap="{{site.clap_button.multiclap}}" api="{{site.clap_button.api}}" url="{{site.clap_button.url}}"/></applause-button>
+  </div>
 {% else %}
   <hr class="dingbat related mb6" />
 {% endif %}

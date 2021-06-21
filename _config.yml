@@ -1,6 +1,13 @@
 lang:                  en
-title:                 Hydejack
+title:                 ZYA's Blog
+description:           Gebrechlichkeit vergessen.
 copyright:             © 2021. All rights reserved.
+author:
+  name:                <Z> <YA>
+  email:               zyazhb@yahoo.com
+  github:              zyazhb
+  steam:               76561198398720949
+  rss:                 https://zyazhb.github.io/feed.xml
 
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
@@ -82,5 +89,18 @@ gitalk:
     
 permalink:             /:year/:month/:day/:title/
 
-clap_button: true
- 
+clap_button: 
+    enabled: true
+    color: purple
+    multiclap: true
+    api: https://api.applause-button.com
+    url: https://zyazhb.github.io
+
+
+menu:
+  - title:             Blog
+    url:               /blog/
+  - title:             Projects
+    url:               /projects/
+  - title:             About
+    url:               /about/
