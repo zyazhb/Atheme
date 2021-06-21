@@ -1,0 +1,324 @@
+I"MD<p>A boutique Jekyll theme for hackers, nerds, and academics.</p>
+
+<p><a href="https://hydejack.com/"><img src="https://hydejack.com/assets/img/blog/hydejack-9.jpg" alt="Screenshot" /></a></p>
+
+<p>Hydejack’s cover page on a variety of screens.</p>
+
+<p><strong>Hydejack</strong> is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress.</p>
+
+<p>It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.</p>
+
+<blockquote>
+  <p>Your complete presence on the web — A <a href="https://hydejack.com/blog/">blog</a>, <a href="https://hydejack.com/projects/">portfolio</a>, and <a href="https://hydejack.com/resume/">resume</a>.</p>
+</blockquote>
+
+<h2 id="a-personal-site-that-wont-disappear">A Personal Site That Won’t Disappear</h2>
+
+<p><strong>Hydejack</strong> is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.</p>
+
+<p>Hydejack is all static sites. <em>HTML</em>. All you need is a web server — any web server — to have a professional web presence that lasts a lifetime.</p>
+
+<h2 id="download">Download</h2>
+
+<p>There are two versions of <strong>Hydejack</strong>: The <em>Free Version</em> includes basic blogging functionality and most of Hydejack’s <a href="https://hydejack.com/#features">Features</a>, such as dynamic page loading and advanced animations.</p>
+
+<p>The <em>PRO Version</em> includes additional features for professionals, such as a <a href="https://hydejack.com/projects/">portfolio</a>, <a href="https://hydejack.com/resume/">resume</a>, <a href="https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/">Dark Mode</a>, <a href="https://hydejack.com/forms-by-example/">Forms</a>, <a href="https://hydejack.com/#_search-input">Built-In Search</a> and customizable cookie banners.</p>
+
+<p>The table below shows what’s included in each version:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: center">Free</th>
+      <th style="text-align: center">PRO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/blog/">Blog</a></td>
+      <td style="text-align: center">✔</td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/#features">Features</a></td>
+      <td style="text-align: center">✔</td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/docs/">Documentation</a></td>
+      <td style="text-align: center">✔</td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/projects/">Portfolio</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Printable <a href="https://hydejack.com/resume/">Resume</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/">Dark Mode</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/#_search-input">Built-In Search</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/forms-by-example/">Custom Forms</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/#build-an-audience">Newsletter Box</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/blog/hydejack/">Grid layout</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/docs/advanced/#enabling-offline-support">Offline Support</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Table of Contents<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote">1</a></sup></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Cookie Banner</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">No Hydejack Branding</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">License</td>
+      <td style="text-align: center"><a href="/LICENSE.md">GPL-3.0</a></td>
+      <td style="text-align: center"><a href="licenses/PRO.md">PRO</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Source</td>
+      <td style="text-align: center"><a href="https://github.com/hydecorp/hydejack">GitHub</a></td>
+      <td style="text-align: center">Included</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Price</strong> / Upgrade</td>
+      <td style="text-align: center"><strong>Free</strong></td>
+      <td style="text-align: center"><strong>$99</strong> / $39 <sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote">2</a></sup></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"><a href="https://github.com/hydecorp/hydejack-starter-kit/releases"><strong>Download</strong></a> <br />– or –<br /> <a href="https://app.netlify.com/start/deploy?repository=https://github.com/hydecorp/hydejack-starter-kit"><strong>Deploy to Netlify</strong></a></td>
+      <td style="text-align: center"><a href="https://gum.co/nuOluY"><strong>Buy PRO</strong></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Hydejack</strong> started out as a free blogging theme for Jekyll — and continues to be so.</p>
+
+<!--posts-->
+
+<h2 id="an-impressive-portfolio">An Impressive Portfolio</h2>
+<p>A portfolio that’s guaranteed to be impressive — no matter what you put into it.</p>
+
+<!--projects-->
+
+<h2 id="a-printable-resume">A Printable Resume</h2>
+<p>Get a resume that’s consistent across the board — whether it’s on the web, mobile, print, or <a href="https://hydejack.com/assets/Resume.pdf">PDF</a>.</p>
+
+<p><a href="https://hydejack.com/resume/"><img src="https://hydejack.com/assets/img/blog/resume.png" alt="Resume PDF" /></a></p>
+
+<p>Front and center page of a print resume generated by Hydejack.</p>
+
+<h2 id="just-markdown">Just Markdown</h2>
+<p>Write all content with Markdown. <strong>Hydejack</strong> gives you <a href="docs/writing.md">additional CSS classes</a> to stylize your content, without losing compatibility with other Jekyll themes.</p>
+
+<h2 id="just-markup">Just Markup</h2>
+<p><strong>Hydejack</strong> boasts a plethora of modern JavaScript, but make no mistake: It’s still a <em>plain old web page</em> at its core. It works without JavaScript and you can even view it in a text-based browser like <code class="language-plaintext highlighter-rouge">w3m</code>:</p>
+
+<p><img src="https://hydejack.com/assets/img/blog/w3m.png" alt="w3m Screenshot" /></p>
+
+<p>The Hydejack blog, as seen by the text browser <code class="language-plaintext highlighter-rouge">w3m</code>.</p>
+
+<h2 id="syntax-highlighting">Syntax Highlighting</h2>
+<p><strong>Hydejack</strong> features syntax highlighting, powered by <a href="http://rouge.jneen.net">Rouge</a>.</p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// file: `example.js`</span>
+<span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="dl">"</span><span class="s2">hy-push-state</span><span class="dl">"</span><span class="p">).</span><span class="nx">addEventListener</span><span class="p">(</span><span class="dl">"</span><span class="s2">hy-push-state-load</span><span class="dl">"</span><span class="p">,</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="kd">const</span> <span class="nx">supportsCodeHighlights</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span> <span class="c1">//!!</span>
+<span class="p">});</span>
+</code></pre></div></div>
+
+<p>Code blocks can have a filename and a caption.</p>
+
+<h2 id="beautiful-math">Beautiful Math</h2>
+<p>They say math is beautiful — and with <strong>Hydejack</strong>’s <a href="https://hydejack.com/docs/writing/#adding-math">math support</a> it’s guaranteed to also look beautiful:</p>
+
+<p><img src="https://hydejack.com/assets/img/blog/example-content-iii.jpg" alt="Math example" /></p>
+
+<p>Hydejack uses KaTeX to efficiently render math.</p>
+
+<h2 id="build-an-audience">Build an Audience</h2>
+<p>The PRO version has built-in support for customizable <a href="https://tinyletter.com/">Tinyletter</a> newsletter subscription boxes.</p>
+
+<p>If you are using a different service like MailChimp, you can build a custom newsletter subscription box using <a href="https://hydejack.com/forms-by-example/">Custom Forms</a>.</p>
+
+<h2 id="features">Features</h2>
+
+<p>An incomplete list of features included in all versions of <strong>Hydejack</strong>:</p>
+
+<ul>
+  <li>Responsive layout with unique design features for every screen size</li>
+  <li>Cover Pages for a stunning fist impression.</li>
+  <li>Customizable sidebar and touch-enabled drawer menu</li>
+  <li>Single Page Web App-style page loading</li>
+  <li>Advanced <abbr title="First-Last-Invert-Play. A coding technique to achieve performant page transition animations.">FLIP</abbr> animations, inspired by Material Design</li>
+  <li>Good <a href="https://developers.google.com/speed/pagespeed/insights/?url=https://hydejack.com/">Google PageSpeed Score</a><sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">3</a></sup></li>
+  <li><a href="https://hydejack.com/#syntax-highlighting">Syntax highlighting</a>, powered by <a href="http://rouge.jneen.net">Rouge</a></li>
+  <li><a href="https://hydejack.com/#beautiful-math">LaTeX math blocks</a>, rendered with ether <a href="https://khan.github.io/KaTeX/">KaTeX</a> or <a href="https://www.mathjax.org/">MathJax</a> at your choice</li>
+  <li>Soft-coded labels: Change wording or translate to other languages via a single file</li>
+  <li>Support for categories and tags</li>
+  <li>Author section below each article and support for multiple authors</li>
+  <li>Built-in icons for many social networks</li>
+  <li>Simple and semantic HTML + Structured Data</li>
+  <li>Google Analytics and Google Fonts support</li>
+</ul>
+
+<h2 id="comparison">Comparison</h2>
+
+<p>There are two versions of <strong>Hydejack</strong>: The <em>Free Version</em> includes basic blogging functionality and most of Hydejack’s <a href="https://hydejack.com/#features">Features</a>, such as dynamic page loading and advanced animations.</p>
+
+<p>The <em>PRO Version</em> includes additional features for professionals, such as a <a href="https://hydejack.com/projects/">portfolio</a>, <a href="https://hydejack.com/resume/">resume</a>, <a href="https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/">Dark Mode</a>, <a href="https://hydejack.com/forms-by-example/">Forms</a>, <a href="https://hydejack.com/#_search-input">Built-In Search</a> and customizable cookie banners.</p>
+
+<p>The table below shows what’s included in each version:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: center">Free</th>
+      <th style="text-align: center">PRO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/blog/">Blog</a></td>
+      <td style="text-align: center">✔</td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/#features">Features</a></td>
+      <td style="text-align: center">✔</td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/docs/">Documentation</a></td>
+      <td style="text-align: center">✔</td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/projects/">Portfolio</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Printable <a href="https://hydejack.com/resume/">Resume</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/">Dark Mode</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/#_search-input">Built-In Search</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/forms-by-example/">Custom Forms</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/#build-an-audience">Newsletter Box</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/blog/hydejack/">Grid layout</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hydejack.com/docs/advanced/#enabling-offline-support">Offline Support</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Table of Contents<sup id="fnref:2:1" role="doc-noteref"><a href="#fn:2" class="footnote">1</a></sup></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Cookie Banner</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">No Hydejack Branding</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✔</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">License</td>
+      <td style="text-align: center"><a href="/LICENSE.md">GPL-3.0</a></td>
+      <td style="text-align: center"><a href="licenses/PRO.md">PRO</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Source</td>
+      <td style="text-align: center"><a href="https://github.com/hydecorp/hydejack">GitHub</a></td>
+      <td style="text-align: center">Included</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Price</strong> / Upgrade</td>
+      <td style="text-align: center"><strong>Free</strong></td>
+      <td style="text-align: center"><strong>$99</strong> / $39 <sup id="fnref:3:1" role="doc-noteref"><a href="#fn:3" class="footnote">2</a></sup></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"><a href="https://github.com/hydecorp/hydejack-starter-kit/releases"><strong>Download</strong></a> <br />– or –<br /> <a href="https://app.netlify.com/start/deploy?repository=https://github.com/hydecorp/hydejack-starter-kit"><strong>Deploy to Netlify</strong></a></td>
+      <td style="text-align: center"><a href="https://gum.co/nuOluY"><strong>Buy PRO</strong></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:2" role="doc-endnote">
+      <p>Large screens (&gt; 1664px width) only. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:2:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>Upgrading from Hydejack 8? Find your discount code in the latest zip download! <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:3:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:1" role="doc-endnote">
+      <p>Actual page load speed depends on your hosting provider, resolution of embedded images and usage of 3rd party plugins. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET
