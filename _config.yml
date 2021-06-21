@@ -79,3 +79,5 @@ gitalk:
     repo: gitalk
     owner: zyazhb
     admin: zyazhb
+    
+permalink:             /:year/:month/:day/:title/

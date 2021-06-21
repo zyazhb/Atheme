@@ -1,0 +1,1 @@
+docker run  --rm -v $(pwd):/srv/jekyll -v $(pwd)/_site:/srv/jekyll/_site --env JEKYLL_ENV=production -p 80:4000 --privileged jekyll/jekyll:latest jekyll serve --watch
