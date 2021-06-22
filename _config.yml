@@ -90,12 +90,16 @@ gitalk:
 permalink:             /:year/:month/:day/:title/
 
 clap_button: 
-    enabled: true
+    enabled: false
     color: purple
     multiclap: true
     api: https://api.applause-button.com
     url: https://zyazhb.github.io
 
+statcounter:
+    enabled: false
+    url: https://statcounter.com/p12377149/summary/
+    counter: https://c.statcounter.com/12377149/0/84edaeef/0/
 
 menu:
   - title:             Blog
