@@ -9,9 +9,15 @@
   "start_url": "{{ '/' | relative_url }}?utm_source=homescreen",
   "theme_color": "{{ site.theme_color | default:site.accent_color | default:'rgb(8,46,57)' }}",
   "background_color": "{{ site.background_color | default:'#fff' }}",
-  "orientation": "portrait",
-  "display": "minimal-ui",
+  "orientation": "any",
+  "display": "standalone",
   "scope": "{{ '/' | relative_url }}",
+  "features": [
+    "Cross Platform",
+    "low-latency inking",
+    "fast",
+    "useful AI"
+  ],
   "icons": [
     {
       "src": "{{ 'assets/icons/icon-72x72.png' | relative_url }}",
